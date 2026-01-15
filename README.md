@@ -16,7 +16,7 @@ Clean and minimal design
 📦 CSS Flaxbox Layout
 📂 Project Structure
 
-├── index.html ├── style.css ├── images │ ├── colors_fonts_style.png │ └── full_design_one.png └── README.md
+├── index.html ├── style.css ├── images ├── fonts └── README.md
 
 📂 Resources
 
